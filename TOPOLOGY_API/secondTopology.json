@@ -1,0 +1,19 @@
+{
+  "id": "top2",
+  "components": [
+    {
+      "type": "pmos",
+      "id": "m1",
+      "m(l)": {
+        "default": 22.255,
+        "min": 10,
+        "max": 40
+      },
+      "netlist": {
+        "drain": "n0",
+        "gate": "vdd",
+        "source": "vss"
+      }
+    }
+  ]
+}
