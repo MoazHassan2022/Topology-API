@@ -1,8 +1,6 @@
 #include "Topology.h"
 
-Topology::Topology()
-{
-}
+Topology::Topology(){}
 
 Topology::Topology(string id, const vector<Component*>& componentsList)
 {

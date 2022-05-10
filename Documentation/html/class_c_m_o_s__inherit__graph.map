@@ -1,0 +1,4 @@
+<map id="CMOS" name="CMOS">
+<area shape="rect" id="node1" title="This class inherits from ElectronicDevice class." alt="" coords="34,80,95,107"/>
+<area shape="rect" id="node2" href="$class_electronic_device.html" title="This class is responsible for holding Electronic Device data." alt="" coords="5,5,124,32"/>
+</map>

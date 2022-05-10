@@ -1,0 +1,6 @@
+<map id="Component::printComponent" name="Component::printComponent">
+<area shape="rect" id="node1" title="Function to print component&#39;s details." alt="" coords="5,32,192,59"/>
+<area shape="rect" id="node2" href="$class_u_i.html#a690ab762a5ca33158720f8ba545ff6b4" title="Function to print any string wuth slow motion." alt="" coords="509,5,576,32"/>
+<area shape="rect" id="node3" href="$class_electronic_device.html#a2df11cb5c263890d7038f38cd5947ca0" title="Function for prinitng Electronic Device details." alt="" coords="240,25,449,66"/>
+<area shape="rect" id="node4" href="$class_u_i.html#a872f658b496a3278159d181d36429675" title="Function to set the foreground color of the console." alt="" coords="497,60,588,87"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="API::queryDevices" name="API::queryDevices">
+<area shape="rect" id="node1" title="This function queries all Eletronic Devices in a specific topology from the memory." alt="" coords="331,5,459,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" href="$class_a_p_i_test.html#ad56ac0cc2cc2f8e8e4f3ba165e219d68" title="Test function for queryDevices() function." alt="" coords="104,31,283,57"/>
+</map>

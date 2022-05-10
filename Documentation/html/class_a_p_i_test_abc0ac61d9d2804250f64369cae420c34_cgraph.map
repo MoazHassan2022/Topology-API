@@ -1,0 +1,8 @@
+<map id="APITest::deleteTopologyTest" name="APITest::deleteTopologyTest">
+<area shape="rect" id="node1" title="Test function for deleteTopology() function." alt="" coords="5,81,193,108"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#ae61cf33d3771ccbe778f39446bd72525" title="This function deletes a specific topology from the memory." alt="" coords="245,5,383,32"/>
+<area shape="rect" id="node4" href="$class_u_i.html#a690ab762a5ca33158720f8ba545ff6b4" title="Function to print any string wuth slow motion." alt="" coords="281,56,347,83"/>
+<area shape="rect" id="node5" href="$class_a_p_i.html#a4d1814a1d0655951a5bce1cd67b3d7b5" title="This function queries all the topologies from the memory." alt="" coords="241,107,387,133"/>
+<area shape="rect" id="node6" href="$class_u_i.html#a872f658b496a3278159d181d36429675" title="Function to set the foreground color of the console." alt="" coords="269,157,359,184"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#a20489d87860435d2310e0a2bfba71024" title=" " alt="" coords="435,5,557,32"/>
+</map>

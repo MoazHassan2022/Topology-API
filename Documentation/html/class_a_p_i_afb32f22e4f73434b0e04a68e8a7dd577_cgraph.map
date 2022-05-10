@@ -1,0 +1,9 @@
+<map id="API::writeJSON" name="API::writeJSON">
+<area shape="rect" id="node1" title="This function writes the JSON file from the memory." alt="" coords="5,163,117,189"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#a20489d87860435d2310e0a2bfba71024" title=" " alt="" coords="205,5,327,32"/>
+<area shape="rect" id="node3" href="$class_electronic_device.html#a6b8a14a98cce32952686bce0bc5c0a94" title="Function to get device&#39;s default value." alt="" coords="174,57,358,98"/>
+<area shape="rect" id="node4" href="$class_electronic_device.html#a2b7b1fd77893ea5dab803bc0c48b5029" title="Function to get device&#39;s maximum value." alt="" coords="165,122,367,163"/>
+<area shape="rect" id="node5" href="$class_electronic_device.html#ad052dd623a167092015a93cec5d54090" title="Function to get device&#39;s minimum value." alt="" coords="167,187,365,229"/>
+<area shape="rect" id="node6" href="$class_u_i.html#a690ab762a5ca33158720f8ba545ff6b4" title="Function to print any string wuth slow motion." alt="" coords="233,253,299,280"/>
+<area shape="rect" id="node7" href="$class_u_i.html#a872f658b496a3278159d181d36429675" title="Function to set the foreground color of the console." alt="" coords="221,304,311,331"/>
+</map>

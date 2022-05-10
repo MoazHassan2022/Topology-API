@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_electronic_device.html" title="This class is responsible for holding Electronic Device data." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$class_c_m_o_s.html" title="This class inherits from ElectronicDevice class." alt="" coords="185,5,246,32"/>
+<area shape="rect" id="node3" href="$class_resistance.html" title="This class inherits from ElectronicDevice class." alt="" coords="172,56,259,83"/>
+</map>

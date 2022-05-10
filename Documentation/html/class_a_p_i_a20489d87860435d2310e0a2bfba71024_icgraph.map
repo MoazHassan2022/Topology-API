@@ -1,0 +1,12 @@
+<map id="API::findTopology" name="API::findTopology">
+<area shape="rect" id="node1" title=" " alt="" coords="611,183,733,209"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#ae61cf33d3771ccbe778f39446bd72525" title="This function deletes a specific topology from the memory." alt="" coords="382,56,521,83"/>
+<area shape="rect" id="node5" href="$class_a_p_i.html#a764429959a7adc67c0b150db0bd2fc2a" title="This function queries all Eletronic Devices in a specific topology from the memory." alt="" coords="387,157,515,184"/>
+<area shape="rect" id="node7" href="$class_a_p_i.html#a5a75a913d667cb43a3b6faa460a59839" title="This function queries all Eletronic Devices in a specific topology that are connected to a specific n..." alt="" coords="340,208,563,235"/>
+<area shape="rect" id="node9" href="$class_a_p_i.html#afb32f22e4f73434b0e04a68e8a7dd577" title="This function writes the JSON file from the memory." alt="" coords="395,325,507,352"/>
+<area shape="rect" id="node3" href="$class_a_p_i_test.html#abc0ac61d9d2804250f64369cae420c34" title="Test function for deleteTopology() function." alt="" coords="104,5,292,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,183,56,209"/>
+<area shape="rect" id="node6" href="$class_a_p_i_test.html#ad56ac0cc2cc2f8e8e4f3ba165e219d68" title="Test function for queryDevices() function." alt="" coords="109,157,287,184"/>
+<area shape="rect" id="node8" href="$class_a_p_i_test.html#a9f1eda5c2a360c5192bf2cd595a3778b" title="Test function for queryDevicesWithNetlistNode() function." alt="" coords="108,259,288,301"/>
+<area shape="rect" id="node10" href="$class_a_p_i_test.html#aec2bc6a72ec27b95c9b6e1d48a5d62ad" title="Test function for writeJSON() function." alt="" coords="117,376,279,403"/>
+</map>

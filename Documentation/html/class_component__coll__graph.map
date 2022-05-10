@@ -1,0 +1,5 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="This class is responsible for holding component&#39;s data." alt="" coords="5,184,93,211"/>
+<area shape="rect" id="node2" href="$class_electronic_device.html" title="This class is responsible for holding Electronic Device data." alt="" coords="54,95,173,121"/>
+<area shape="rect" id="node3" href="$class_u_i.html" title="This class is used in all classes that needs to deal with I/O(Input/Output)." alt="" coords="17,5,55,32"/>
+</map>

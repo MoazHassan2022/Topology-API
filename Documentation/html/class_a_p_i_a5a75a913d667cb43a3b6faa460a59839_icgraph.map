@@ -1,0 +1,5 @@
+<map id="API::queryDevicesWithNetlistNode" name="API::queryDevicesWithNetlistNode">
+<area shape="rect" id="node1" title="This function queries all Eletronic Devices in a specific topology that are connected to a specific n..." alt="" coords="332,5,555,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node3" href="$class_a_p_i_test.html#a9f1eda5c2a360c5192bf2cd595a3778b" title="Test function for queryDevicesWithNetlistNode() function." alt="" coords="104,27,284,69"/>
+</map>

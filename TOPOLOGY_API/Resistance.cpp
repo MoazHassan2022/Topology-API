@@ -14,6 +14,4 @@ void Resistance::printElectronicDevice()
 	ElectronicDevice::printElectronicDevice();
 }
 
-Resistance::~Resistance()
-{
-}
+Resistance::~Resistance(){}

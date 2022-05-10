@@ -1,0 +1,16 @@
+<map id="UI::print" name="UI::print">
+<area shape="rect" id="node1" title="Function to print any string wuth slow motion." alt="" coords="600,369,667,395"/>
+<area shape="rect" id="node2" href="$class_a_p_i_test.html#abc0ac61d9d2804250f64369cae420c34" title="Test function for deleteTopology() function." alt="" coords="105,201,293,227"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,226,56,253"/>
+<area shape="rect" id="node4" href="$class_component.html#ae7252a8d085781a02c254b86b7d86888" title="Function to print component&#39;s details." alt="" coords="106,474,293,501"/>
+<area shape="rect" id="node5" href="$class_c_m_o_s.html#adef3682a3be6b3f40cbbd24333c2d94c" title="Function for prinitng CMOS details." alt="" coords="104,541,295,567"/>
+<area shape="rect" id="node6" href="$class_electronic_device.html#a2df11cb5c263890d7038f38cd5947ca0" title="Function for prinitng Electronic Device details." alt="" coords="343,521,552,563"/>
+<area shape="rect" id="node7" href="$class_resistance.html#a362c4b4088f94cc25204bdbd6a92cadb" title="Function for prinitng Resistance details." alt="" coords="110,617,289,659"/>
+<area shape="rect" id="node8" href="$class_topology.html#a73bb57cf590e76467bfef83485c15fa3" title="Function to print topology&#39;s details." alt="" coords="368,689,527,715"/>
+<area shape="rect" id="node9" href="$class_a_p_i_test.html#ad56ac0cc2cc2f8e8e4f3ba165e219d68" title="Test function for queryDevices() function." alt="" coords="110,251,289,278"/>
+<area shape="rect" id="node10" href="$class_a_p_i_test.html#a9f1eda5c2a360c5192bf2cd595a3778b" title="Test function for queryDevicesWithNetlistNode() function." alt="" coords="357,303,537,344"/>
+<area shape="rect" id="node11" href="$class_a_p_i_test.html#ad9ed4623caad6138ea390a3b86d4ca0b" title="Test function for queryTopologies() function." alt="" coords="350,369,545,395"/>
+<area shape="rect" id="node12" href="$class_a_p_i_test.html#a94a98a75e123eb9a6244104ae7c56274" title="Test function for readJSON() function." alt="" coords="367,419,527,446"/>
+<area shape="rect" id="node13" href="$class_a_p_i.html#afb32f22e4f73434b0e04a68e8a7dd577" title="This function writes the JSON file from the memory." alt="" coords="391,150,503,177"/>
+<area shape="rect" id="node14" href="$class_a_p_i_test.html#aec2bc6a72ec27b95c9b6e1d48a5d62ad" title="Test function for writeJSON() function." alt="" coords="118,99,281,126"/>
+</map>

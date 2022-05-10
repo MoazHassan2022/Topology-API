@@ -1,0 +1,17 @@
+<map id="APITest::readJSONTest" name="APITest::readJSONTest">
+<area shape="rect" id="node1" title="Test function for readJSON() function." alt="" coords="5,275,165,301"/>
+<area shape="rect" id="node2" href="$class_u_i.html#a690ab762a5ca33158720f8ba545ff6b4" title="Function to print any string wuth slow motion." alt="" coords="235,224,302,251"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#a252e40c8c819c690d6e19258ec290f03" title="This function reads the JSON file to the memory." alt="" coords="213,275,324,301"/>
+<area shape="rect" id="node15" href="$class_u_i.html#a872f658b496a3278159d181d36429675" title="Function to set the foreground color of the console." alt="" coords="223,325,314,352"/>
+<area shape="rect" id="node4" href="$class_topology.html#ae7674d66373102541fc85d43bfba16c1" title="Function to push component pointer into Topology&#39;s components list." alt="" coords="372,5,597,32"/>
+<area shape="rect" id="node5" href="$class_component.html#a1561a8c4ca4fb3bbcf694ba5ecbc374a" title="Function to push new node ( type: string ) into component&#39;s netlist vector." alt="" coords="393,56,576,83"/>
+<area shape="rect" id="node6" href="$class_c_m_o_s.html#a66db57c0adcd2b1b88b924651b6ec0d5" title="Function to set CMOS type: NMOS or PMOS." alt="" coords="407,107,562,133"/>
+<area shape="rect" id="node7" href="$class_component.html#ac330d375b7e95bdc0af445fda0e5aaef" title="Function to set component&#39;s ElectronicDevice object pointer." alt="" coords="375,157,594,184"/>
+<area shape="rect" id="node8" href="$class_electronic_device.html#a65a6346a4132562ada77a9054f59fcd1" title="Function to set device&#39;s default value." alt="" coords="393,209,577,250"/>
+<area shape="rect" id="node9" href="$class_component.html#a901f96875ec357b5e603e68c0f8f4095" title="Function to set component&#39;s id." alt="" coords="421,275,548,301"/>
+<area shape="rect" id="node10" href="$class_electronic_device.html#a8ae1004bb7fbfee109ccc04cde17a7f4" title="Function to set device&#39;s id." alt="" coords="407,325,563,352"/>
+<area shape="rect" id="node11" href="$class_topology.html#a333ff1352e863bd9118879f1c07be78d" title="Function to set toplogy&#39;s id." alt="" coords="429,376,541,403"/>
+<area shape="rect" id="node12" href="$class_electronic_device.html#ad35c65627919addad1c5893adcf17083" title="Function to set device&#39;s maximum value." alt="" coords="384,427,585,469"/>
+<area shape="rect" id="node13" href="$class_electronic_device.html#ac1a8a83c845763b5612a8019ca82f222" title="Function to set device&#39;s minimum value." alt="" coords="386,493,583,534"/>
+<area shape="rect" id="node14" href="$class_component.html#a3a493075ef608ee589d1ff76cdb89f33" title="Function to set type of the component." alt="" coords="413,559,556,585"/>
+</map>

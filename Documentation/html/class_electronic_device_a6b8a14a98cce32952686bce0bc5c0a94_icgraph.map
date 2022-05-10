@@ -1,0 +1,6 @@
+<map id="ElectronicDevice::getDefaultValue" name="ElectronicDevice::getDefaultValue">
+<area shape="rect" id="node1" title="Function to get device&#39;s default value." alt="" coords="475,5,659,47"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#afb32f22e4f73434b0e04a68e8a7dd577" title="This function writes the JSON file from the memory." alt="" coords="315,13,427,39"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,56,39"/>
+<area shape="rect" id="node4" href="$class_a_p_i_test.html#aec2bc6a72ec27b95c9b6e1d48a5d62ad" title="Test function for writeJSON() function." alt="" coords="104,38,267,65"/>
+</map>

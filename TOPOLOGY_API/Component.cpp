@@ -2,9 +2,11 @@
 
 Component::Component()
 {
+    type = 0;
+    id = "";
 }
 
-Component::Component(short type, string id, vector<string> netlist, ElectronicDevice* componentDevice)
+Component::Component(short type, string id, const vector<string> &netlist, ElectronicDevice* componentDevice)
 {
     this->type = type;
     this->id = id;
@@ -22,7 +24,7 @@ void Component::setID(string id)
     this->id = id;
 }
 
-void Component::setNetlist(vector<string> netlist)
+void Component::setNetlist(const vector<string> &netlist)
 {
     this->netlist = netlist;
 }
@@ -81,5 +83,6 @@ void Component::printComponent()
 Component::~Component()
 {
     delete componentDevice;
+    componentDevice = NULL;
     netlist.~vector<string>();
 }
